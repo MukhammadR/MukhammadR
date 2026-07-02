@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)
+![MasterHead](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)
 <h1 align="center">Hi 👋, I'm MukhammadR</h1>
 <h3 align="center">A passionate frontend & backend developer from Uzbakistan</h3>
 
